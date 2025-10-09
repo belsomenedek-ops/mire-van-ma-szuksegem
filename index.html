@@ -49,7 +49,7 @@ box-shadow: 0 0 8px rgba(0,0,0,0.3);
 <script>
 async function showRandomCard() {
 try {
-const response = await fetch('cards.json');
+const response = await fetch('./cards.json');
 const cards = await response.json();
 const random = Math.floor(Math.random() * cards.length);
 const card = cards[random];
