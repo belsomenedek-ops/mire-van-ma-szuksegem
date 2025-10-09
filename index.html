@@ -55,7 +55,7 @@ const random = Math.floor(Math.random() * cards.length);
 const card = cards[random];
 
 document.getElementById('card-container').innerHTML =
-`<img src="${card.img}" alt="kártya">`;
+`<img src="./${card.img}" alt="kártya">`;
 
 document.getElementById('explanation').innerText = card.text;
 } catch (e) {
