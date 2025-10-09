@@ -30,19 +30,39 @@ border-radius: 8px;
 display: block;
 margin: 12px auto;
 }
+.desc {
+font-size: 15px;
+line-height: 1.4;
+color: #cce7d1;
+margin-top: 15px;
+background: rgba(255,255,255,0.05);
+padding: 10px;
+border-radius: 8px;
+}
 </style>
 </head>
 <body>
 <div class="card-wrap">
 <h1>MIRE VAN MA SZÜKSÉGEM?</h1>
 <img id="cardImg" src="" alt="kártya">
+<div id="desc" class="desc"></div>
 </div>
 
 <script>
-const cards = ["1.png","2.png","3.png"]; // ide a képek nevét
+// Itt adjuk meg a képek és magyarázatok listáját
+const cards = [
+{ img: "1.png", text: "Figyelj az álmaidra – az álmaid üzeneteket hordoznak, segítenek megérteni a lelked mélyebb vágyait." },
+{ img: "2.png", text: "Engedd el, ami már nem szolgál – csak így tud újat teremteni az élet." },
+{ img: "3.png", text: "Lélegezz mélyeket – minden egyes lélegzet segít visszatérni a jelenbe." }
+// ... ide jön majd mind a 45 kártya leírása
+];
+
 const img = document.getElementById('cardImg');
+const desc = document.getElementById('desc');
 const i = Math.floor(Math.random() * cards.length);
-img.src = cards[i]; // véletlenszerűen választ egy képet betöltéskor
+
+img.src = cards[i].img;
+desc.textContent = cards[i].text;
 </script>
 </body>
 </html>
