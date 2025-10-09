@@ -1,47 +1,367 @@
 [
-  "1.png",
-  "2.png",
-  "3.png",
-  "4.png",
-  "5.png",
-  "6.png",
-  "5.png",
-  "7.png",
-  "9.png",
-  "10.png",
-  "11.png",
-  "12.png",
-  "13.png",
-  "14.png",
-  "15.png",
-  "16.png",
-  "17.png",
-  "18.png",
-  "19.png",
-  "20.png",
-  "21.png",
-  "22.png",
-  "23.png",
-  "24.png",
-  "25.png",
-  "26.png",
-  "27.png",
-  "28.png",
-  "29.png",
-  "30.png",
-  "31.png",
-  "32.png",
-  "33.png",
-  "34.png",
-  "35.png",
-  "36.png",
-  "37.png",
-  "38.png",
-  "39.png",
-  "40.png",
-  "41.png",
-  "42.png",
-  "43.png",
-  "44.png",
-  "45.png"
+{ "img": "1.png", "text": "Ezt a lapot most azért kaptad, mert elöntött a fájdalom és nehéz a hétköznapi dolgokra koncentrálnod.
+Írd ki magadból a fájdalmat!
+Képzeld el és lásd, amint a tolladon keresztül kifolyik az írás által a fájdalom, keserűség, bánat.
+Ami kifolyik, az egy univerzális nagy olvasztó tégelybe ömlik bele, amit a szeretet ragyogó rózsaszín
+fénye átjár és transzformál.
+Ez a transzformált energia, megtisztítva visszajut hozzád.
+Ahogy kezd oldódni belőled a fájdalom, egyenes arányban annyi életöröm és életerő fog beáramolni
+az életedbe.
+Utána már fogsz tudni építkezni.
+Ha gyászban vagy, akkor érdemes Gyászterapeutát felkeresned, aki segít végig kísérni a folyamaton." },
+{ "img": "2.png", "text": "Ezt a lapot most azért kaptad, mert elérkeztél egy újabb lépcsőfokhoz.
+Zárd le a téged már nem szolgáló helyzeteket,
+hogy tiszta lappal tudj az előtted álló új lehetőségekre koncentrálni.
+Minden kezdet, újult erővel érkezik.
+Használd ki a lehetőséget és áramolj vele." },
+{ "img": "3.png", "text": "Ezt a lapot most azért kaptad, mert az álmaid üzenni szeretnének neked.
+Lehet, hogy nem veszed eléggé komolyan őket.
+Az álmok, segítenek a hétköznapi problémák feldolgozásában.
+Tedd fel a kérdésed lefekvés előtt és figyeld milyen álmok érkeznek.
+Készíts álomnaplót, írd le az álmaidat.
+Lassan, ki fog alakulni a saját álomnaplód.
+Az asszociációs képek, sokat tudnak segíteni az álmok megértésében." },
+{ "img": "4.png", "text": "Ezt a lapot most azért kaptad, mert lehet, hogy még mindig tétovázol, hezitálsz.
+Valószínűleg már készen állsz, csak még nem tudod elhinni.
+Most, áramolni tudsz a Flow-val. Ha, a Flow-val utazol, nagyon könnyű és akadály mentes útra
+számíthatsz.
+Használd, ki a jó szelet." },
+{ "img": "5.png", "text": "Ezt a lapot most azért kaptad, mert a bűntudat marcangol valamiért, amit szerinted elkövettél.
+A bűntudat marcangol, mert valóban elkövettél valamit.
+Viszont tudd, hogy amig a bűntudatot táplálod, addig függésben tart.
+Ez is egy megdolgozásra váró feladat, amin egyrészt át kell menned a fejlődésed érdekében.
+Másrészről, ettől is sokkal erősebbé válsz, amit akkor fogsz igazán érezni, amikor túljutottál rajta.
+Lehet, hogy nem is a saját életed béli bűntudat, hanem a családból átvett Transzgenerációs
+bűntudatot viszed magaddal.
+Keress egy jó szakembert, aki segít feldolgozni a benned élő bűntudatot." },
+{ "img": "6.png", "text": "Ezt a lapot most azért kaptad, mert kértél.
+Ahány kérés, még ha csak gondolati síkon is jelenik meg benned, elindul az Univerzum felé.
+Még nem érkezett meg, amit kértél?
+Lehet, hogy türelmetlen vagy?
+Vagy, már nem aktuális a kérésed?
+Az Univerzum mindenre reagál, semmilyen kérést nem hagy figyelmen kívül.
+A kérés legyen pontos, rövid és frappáns.
+Tartsd a számodra fontos kívánságot, a fókuszod középpontjában.
+Gyakorolj, sikerülni fog." },
+{ "img": "7.png", "text": "Ezt a lapot most azért kaptad, mert visszafojtod magad.
+Nem engeded szabadjára a hangod.
+Lehet, hogy megfélemlített közegben vagy. Tudd, hogy van lehetőség a szárnyalásra.
+Az énekléssel és a hangod erős kiáramoltatásával, újra erőre fogsz tudni kapni.
+Menj ki a szabadba, oda, ahol szerinted senki nem fog zavarni.
+Először csak finoman hangolódj, vagy egy kis dallal, vagy egy jó slágerrel.
+Utána, a belső feszültségek oldására kiabálj.
+Az is elég, ha csak azt kiabálod, hogy ÁÁÁÁÁÁÁÁÁÁÁÁÁ
+Ez jó kezdésnek.
+Minél mélyebbről jön fel belőled, annál jobban fogod érezni a felszabadító erejét.
+Cselekedj." },
+{ "img": "8.png", "text": "Ezt a lapot most azért kaptad, mert nem hiszel eléggé magadban.
+Nem hiszed, hogy másoknak tudsz bármit is nyújtani Önmagadból, az igazi Önvalódból.
+Keress olyan tulajdonságokat magadban, amiket szeretsz, amivel tudsz azonosulni.
+Amikor ezekre a jó tulajdonságokra gondolsz, hunyd be a szemed és lásd, amint feléd áramlik és
+belép a belsődbe.
+Láss egy szimbólumot, vagy egy szép fényt, ami belép a fejtetődön keresztül a testedbe és szétárad.
+Ezzel egyidőben, lásd és érezd, amint a tested határai elkezdenek növekedni.
+Keress egy jó szakembert, aki segít a mélyben megbúvó tehetségedet, Isten adta szerzeményeidet
+újra a szolgálatodba állítani." },
+{ "img": "9.png", "text": "Ezt a lapot most azért kaptad, mert elfelejtetted, hogy milyen érzés csak úgy valakire odafigyelni.
+Van a közeledben valaki, aki nagyon örülne neked.
+(A közel, lehet rokoni viszony is, annak ellenére, hogy távol él tőled)
+Látogasd meg, beszélgess vele.
+Szervezzél egy közös programot, figyeld meg, hogy rád is milyen jótékony hatása lesz a közösen
+eltöltött időnek.
+Ne, siess!
+Adj magatoknak kellő időt." },
+{ "img": "10.png", "text": "Ezt a lapot most azért kaptad, mert készen állsz az új lehetőségek befogadására.
+Lehet, hogy azt gondolod, erre meg erre még szükséged van ahhoz, hogy meglépd a következő
+szintet.
+Van már elég iskola és tanfolyam a tarsolyodban, kezdj bele, amit elterveztél, amit szeretnél.
+Ez a lap, azt mutatja, hogy elérkezett a pillanat, amikor már nyugodtan tovább léphetsz.
+Megértél, lelkileg és szellemileg is az új előtted álló feladatra.
+Sok sikert hozzá." },
+{ "img": "11.png", "text": "Ezt a lapot most azért kaptad, mert sóvárogsz mások figyelmére, szeretetére.
+Lehet, hogy neked kell most megtenni az első lépést.
+Legyél kezdeményezőbb.
+Nehezedre esik megtenni az első lépést?
+Nézd meg, hogy milyen érzés, ami megjelenik benned ilyenkor?
+Figyel meg, hogy valóban el tudnád-e fogadni a másoktól érkező jót?
+A sóvárgás és vágyakozás, sok esetben a csecsemő és gyermekkorból érkező hiányokat vetíti ki.
+Gondolkodj el azon, hogy mi az, amit Te nem kaptál meg kisgyermekként, csecsemőként?
+Keress fel egy jó szakembert, aki segíti feltárni az elakadásaid." },
+{ "img": "12.png", "text": "Ezt a lapot most azért kaptad, mert vannak pillanatok, amikor valami nagy hiányt élsz meg magadban.
+Ezek a hiányok, bekapcsolják a Belső Gyermeked ki nem elégített vágyait. Mit tegyél?
+Ilyen esetben, vonulj el egy csendes helyre és kérdezd meg Belső Gyermekedet, hogy mit szeretne
+igazán.
+Tudd, hogy senki másra nincsen szükséged ahhoz, hogy a Belső Gyermeked kívánságait teljesíteni
+tudd. Te, már felnőtt vagy. Mindenben tudod a Belső Gyermekedet támogatni.
+Lehetsz akár 65 éves férfi testben, aki szeretne egyet Dodzsemezni, mert kisfiúként talán nem volt rá
+meg az anyagi fedezet. Akkor tedd meg!
+Lehetsz akár 77 éves női testben, aki szeretne egy szép rózsaszín vagy piros virágmintás ruhát, amit
+kisgyermekként nem kaphatott meg.
+Add meg neki!
+Lehet, hogy csak otthon veszed fel, de a Belső Gyermeked meghálálja a törődést." },
+{ "img": "13.png", "text": "Ezt a lapot most azért kaptad, mert valamire nagyon rápörögtél.
+Nagyjából, ugyanazon a pályán mozogsz, körbe-körbe.
+Mit tehetsz ilyen helyzetben? Lépj hátra!
+Tudom, hogy a hátralépést könnyű mondani.
+De, egy nagy sétával vagy egy kirándulással, esetleg nyaralással,
+már nagyobb valószínűséggel fogsz tudni rálátni a jelenlegi helyzetedre.
+Néha a km-ben mért távolság a jelenlegi helyedtől, tényleg tud segíteni.
+Az ott ért új benyomások, ismeretlen környezet segíti a tisztább gondolkodást.
+Vagy, egyszerűen kezdjél bele valami alkotómunkába, amit szeretsz.
+Hímezz, hámozz, fessél, fúrj, faragj, alkoss, kedved szerint.
+Lépj ki, a napi rutin feladatokból." },
+{ "img": "14.png", "text": "Ezt a lapot most azért kaptad, mert nem figyelsz eléggé a szükségleteidre.
+Mindig háttérbe szorítod magad és csak mások elvárásainak megfelelve éled az életed.
+Ez sokáig nem fent tartható állapot, ezért kezd el felismerni, hogy mire is van valójában szükséged.
+Figyeld meg, hogy mit kívánnál igazán és a lehetőségeidhez mérten, add meg magadnak.
+Tegyél valamit, amit megengedhetsz magadnak.
+Nem biztos, hogy anyagi vonzata kell legyen.
+Vegyél ki egy napot, ha már dolgozol, akkor a délutánt és az estét szánd magadra.
+Ne csüggedj, ha a mai nap nem alkalmas rá.
+De, minél előbb adj magadnak szabadnapot, ahol Te lehetsz a Protagonista." },
+{ "img": "15.png", "text": "Ezt a lapot most azért kaptad, mert lehet, hogy a kétvégén égeted a gyertyát.
+Kimerültél, lazításra pihenésre van szükséged, nehogy utolérjen a Burn-out.
+A kiégés elkerülhetetlen, ha nem figyelsz a testi, lelki, mentális jelekre.
+Mert, hogy biztosan szép számban érkeznek, csak hárítottad eddig.
+Nagyon fontos, hogy szánj magadra és a feltöltődésedre időt.
+A másik kérdés az ilyenkor, mitől menekülsz?
+Tarts Önvizsgálatot.
+Törekedj az egyensúlyra." },
+{ "img": "16.png", "text": "Ezt a lapot most azért kaptad, mert közeledik feléd a tiszta szerelem.
+Lehet, hogy régóta vágysz egy ilyen találkozásra, de nem hitted el, hogy létezik számodra.
+Ha nem tudod befogadni a feléd közeledő jót, arra sok esetben a családi rendszerben lehet rá
+magyarázat.
+Az elakadások, befogadási elfogadási képtelenségek okai, elsősorban a családon belül keresendőek.
+Ennek feltárása, kimondottan hatékony Metódus a Családállítás." },
+{ "img": "17.png", "text": "Ezt a lapot most azért kaptad, mert talán nem veszed észre, hogy megérkeztek az életed ajándékai.
+Folyamatosan jön és áramlik feléd, de lehet, hogy nem abban a formában, amit Te gondolnál.
+Vizsgáld meg, és figyeld tudatosan, hogy mik azok a jó dolgok és események, amik megérkeztek
+hozzád.
+Amint felismered az élet ajándékait, mondj egy Hálát érte.
+A „Te olvasatodban” köszönd meg, mélyen szívből jövően.
+Ez a Hála, az üzemanyag a Bőség folyamatos áramlásának.
+Ha úgy érzed, hogy kéred, de nem érkezik meg a bőség az életedbe, akkor az elfogadással és
+befogadással lehetnek problémák. Keress egy jó szakembert és dolgozz a problémádon." },
+{ "img": "18.png", "text": "Ezt a lapot most azért kaptad, mert elfelejtetted, milyen a másokkal való kapcsolódás.
+Régen vidámabbnak és boldogabbnak érezted magad?
+Menj és szórakozz!
+Találj vissza megint ahhoz a kedves lényhez, akire olyan szívesen emlékszel vissza.
+Ő is benned él, csak nem fordítottál rá kellő figyelmet és egy kicsit elhanyagoltad.
+A párkapcsolatokban szokott előfordulni, hogy megváltoznak az emberek a másik kedvéért,
+holott pont abba a kedves emberbe szerettek bele, akivel találkoztak az első vagy második
+alkalommal.
+Emlékezz, hogy milyen voltál és hogy mit szeretnél attól az énedtől újra megtanulni." },
+{ "img": "19.png", "text": "Ezt a lapot most azért kaptad, mert nem akarod elhinni, hogy egy életszakasz, egy kapcsolat lezárult.
+Valóban vége van. Lehet, hogy a gyermeked óvodába ment, a lányod vagy fiad megházasodott és elköltözött tőled, de ez
+az élet rendje. Tudd, hogy újabb lehetőségek és csodás emlékek sora fog érkezni hozzád, hozzátok, amik
+mindkettőtök számára fontosak.
+Egy párkapcsolati, munkahelyi vagy egyéb elválás, szakítás vége, sosem egyszerű.
+De, tudd, hogy mindig van lehetőség a szép emlékeket átvinni a következőbe.
+Ha, ragaszkodsz ahhoz, hogy fenntartsd a status quo-t, annak rád nézve nem lesznek jó
+következményei.
+Méltósággal állj fel, keress egy jó szakembert, akivel fel tudod dolgozni az elengedést.
+Gyász esetén, fordulj Gyászterapeutához." },
+{ "img": "20.png", "text": "Ezt a lapot most azért kaptad, mert vagy nem akarod elhinni, vagy nem tudod elhinni, hogy neked is
+érkeznek Égi sugallatok.
+Tudd, hogy mindenki kap Égi sugallatokat, ezek megérzések formájában érkeznek.
+Amikor, csak halványan átsuhan egy finom lágy gondolat és Te szépen félresöpröd, tudd, hogy valami
+nagyon fontos kincset, ajándékot, segítséget sodortál el magadtól.
+Amikor ilyen sugallataid vannak, még ha nem is cselekszel úgy egy-két alkalommal, az kimondottan
+jó, mert ez fog rámutatni arra, hogy valóban létezik a segítség.
+Mi a teendőd?
+Lassíts le egy kicsit, csendesedj el és tedd fel a kérdésed egy adott problémára vagy témára, ami
+foglalkoztat.
+Lehet, hogy nem azonnal lesz válasz, de jön egy hír a Tv-ben, hallasz valamit az utcán, egy
+mondatfoszlányt, ami eljut hozzád...
+Hidd el, hogy működik az Égi csatorna és mindenki azon van, hogy Te jó és boldog életet élj.
+A sugallatok, nagyon lágyan és lehelet finoman érkeznek hozzád." },
+{ "img": "21.png", "text": "Ezt a lapot most azért kaptad, mert nem tudsz valamiért figyelni a másikra.
+Nem azt hallod meg, amit Ő közölni szeretne veled.
+Csak a fájdalom, keserűség, hiány szemüvegén keresztül látod, hallod a másikat.
+Nézz, magadra most az Ő szemszögéből is.
+Nem mindig egyszerű a másik nézőpontját, szavai súlyát elviselni.
+Lehet akár a társad, párod, családtagod, barátod, érdemes
+utánajárni, hogy mi a konfliktus forrása kettőtök között." },
+{ "img": "22.png", "text": "Ezt a lapot most azért kaptad, mert eddig csak beszéltél arról, hogy mit szeretnél csinálni.
+Ez a lap arra sarkall, hogy először lépj egyet, azután még egyet és ha folyamatosan a Célon tartod a
+figyelmed, előbb utóbb célba érsz.
+Figyeld meg, hogy mik azok a hátráltató tényezők, amik vagy akik nem engedik, hogy végre a pályára
+lépj? A másik, ha nem vagy eléggé fókuszált és nem tudod huzamosabb ideig a figyelmed középpontjában
+tartani, amit valóban szívből szeretnél, akkor lehet, hogy még nincs itt az ideje.
+Vagy, még nem vagy eléggé felkészült az indulásra.
+Esetleg, olyan családi rendszerbeli, rossz példa van előtted, ami gátolja a jó végkifejletet.
+A probléma feltárásához, keress egy jó szakembert." },
+{ "img": "23.png", "text": "Ezt a lapot most azért kaptad, mert sorra veszed észre, vagy éppen figyelmen kívül hagyod a
+párhuzamokat az életedben.
+Ezek a jelenségek figyelmet igényelnek. Valamit üzenni szeretnének számodra.
+Írd le, és figyeld meg, hogy a közeledben ki-kik azok, aki-akikkel hasonló dolgok történtek meg, mint
+veled." },
+{ "img": "24.png", "text": "Ezt a lapot most azért kaptad, mert érdeklődsz valamilyen új szakma, képzés, tanulmányok iránt.
+A téma, ami iránt érdeklődsz még igényli az elmélyülést. Keresd meg a számodra legmegfelelőbb
+iskolát, tanárt, tanárokat.
+Nézz körül a piacon, figyelj közben az érzéseidre. Ahol az érzéseid is bekapcsolódnak a választásban,
+az lehet a megfelelő számodra.
+Hozzátartozik az is, ha utólag úgy érzed, hogy még is rossz döntést hoztál az iskolaválasztással
+kapcsolatban, később ki fog derülni számodra, hogy valami sokkal mélyebb tudást adott neked, amire
+nem is számítottál.
+Csak az tud megjelenni az életedben, amire nyitott vagy és amire a fejlődési szakaszodban éppen
+szükséged van.
+Tudd, hogy a tudással válhatsz, egyre szabadabbá." },
+{ "img": "25.png", "text": "Ezt a lapot most azért kaptad, mert valamit nagyon erősen markolsz. Olyan erősen szorítod, hogy
+megfojtod közben.
+Ha ez egy kapcsolat, a szorítással megfojtod az illetőt.
+Amikor sokáig birtokolni szeretnél valamit és megszoktad, hogy az a tiéd, nehéz az elengedés.
+Képzeld el, ha valami olyat szeretnének tőled, amivel Te nem tudsz azonosulni.
+Mit csinálnál? Tovább mennél vagy hagynád?
+Keress egy jó szakembert, aki segíti feltárni ennek a problémának a gyökerét." },
+{ "img": "26.png", "text": "Ezt a lapot most azért kaptad, mert túlságosan kizsigerelted a tested.
+Nem figyeltél a jelzéseire.
+Menjél friss levegőre és lélegezz mélyeket, méregteleníts és szedjél vitaminokat, ásványianyagokat.
+Kezdj el minőségibb ételeket fogyasztani.
+Iktass be több mozgást az életedbe.
+A tested akkor is jelez, amikor mentálisan és szellemileg is túlterhelt vagy.
+Építs be feltétlenül az életedbe pihenő időt, ha teheted menjél el fürdőbe.
+A vízparti feltöltődés minden érzékszervedre tud hatni és közben nyugtatja az idegrendszert." },
+{ "img": "27.png", "text": "Ezt a lapot most azért kaptad, mert magadat mindenki mögé soroltad.
+Nem kell mindenkinek megfelelned.
+A legfontosabb személy, akinek meg kell, hogy felelj, Önmagad. Magadra figyelj, ami téged éltet és
+táplál. Segíteni tud, ha elkezded feltárni azokat a tényezőket és kapcsolati mintákat, amiket hoztál a családi
+rendszeredből.
+A kötődéseket a szüleidhez, nevelőidhez.
+Az egészséges kötődések létrejötte után, újból a saját magad erejében tudsz a saját életedről
+döntéseket hozni. Azt, hogy kinek mennyit adsz magadból, a kedvességedből, a figyelmedből, idődből stb..
+Fejleszd az Önbizalmad." },
+{ "img": "28.png", "text": "Ezt a lapot most azért kaptad, mert félsz.
+A félelem az egyik legerősebb gúzsba kötő és bénító érzés a világon.
+Nagyon kevés ember él a világon, aki nem fél valamitől.
+De, tudd, hogy ezeket a félelmeket Önmagad táplálod és így folyamatosan jelen van az életedben.
+Tételezzük fel, hogy megvertek gyerekkorodban a srácok a grundon és nem tudtál elfutni vagy éppen
+a fizikumod nem engedte,
+hogy visszaüss.
+Ha ezt az írást olvasod, valószínűsítem, hogy felnőttél már.
+Kezdj el futni, vagy járj edzőterembe, ahol napról-napra építheted fel az izmaidat és vele együtt az
+Önbizalmadat.
+Minden nap eggyel közelebb jutsz ahhoz az énedhez, akivé válni szeretnél.
+Ahogy nő a táv a futásban vagy az izmaid az edzőteremben, érezd és lásd, ahogy a körülötted lévő
+energia megnövekszik és tágul egyre szélesebbre." },
+{ "img": "29.png", "text": "Ezt a lapot most azért kaptad, mert nem mered kimondani, ami belül éget és fáj neked.
+Ha az érzéseidet megosztod a másik féllel, az &quot;gyógyitólag&quot; tud hatni mindkettőtökre.
+Lehet, hogy egy munkahelyi összeveszés vagy szerelmi viszály van köztetek.
+Legyél erős és bátor. Mond el, ami valóban bánt.
+A tiszta, őszinte szavak, eljutnak a másik lelkéig. Ha még sem nyitott a másik fél a közlendődre, akkor
+se csüggedj.
+A magot már elültetted a lelkében.
+Keress egy jó szakembert, aki támogatni tud abban, hogy feltárjátok a rejtett dinamikáját a
+kapcsolatotoknak." },
+{ "img": "30.png", "text": "Ezt a lapot most azért kaptad, mert megtorpantál és Te magad már egyedül nem bírod a terhet, amit a
+nyakadba vettél.
+Elérkeztél a tűréshatárodhoz. Ideje lenne egy szakemberhez fordulnod.
+Alaposan gondold át, hogy mi a problémád és keress egy specialistát.
+Tudd, hogy mindig van segítség, csak kérned kell." },
+{ "img": "31.png", "text": "Ezt a lapot most azért kaptad, mert félsz nagyot lépni, nagyot álmodni.
+Nem hiszed, hogy ez neked jár és meg tudod csinálni.
+Lehet, hogy gyerekkorban olyan programokat kaptál, ami eltántorított téged a nagy álmaidtól.
+Úgy érezheted, hogy nem vagy elég jó!
+-Mit képzelsz, majd neked sikerül?
+-Kinek képzeled magad?
+Talán ismerősek lehetnek számodra is ezek a negatív programok.
+Te, készen állsz arra, hogy más legyél.
+Ehhez, lehet, hogy belső engedélyre lesz szükséged a szüleidtől, nevelőidtől.
+Érdemes lenne felkeresni egy szakembert, aki tud ennek feldolgozásában támogatni." },
+{ "img": "32.png", "text": "Ezt a lapot most azért kaptad, mert eltévedtél. Letértél a számodra kijelölt útról.
+Vizsgáld meg, hogy az életed mely pontjáig érzed úgy, hogy rendben mentek a dolgaid.
+Használd fel a tapasztalataidból nyert tudást, hogy újból visszatérhess a számodra kijelölt útra." },
+{ "img": "33.png", "text": "Ezt a lapot most azért kaptad, mert egyrészről szükséged van földelésre.
+Másrészről friss levegőre és napfényre. Lehet, hogy elodáztad eddig, hogy a szabadban légy.
+Szellőztesd ki a fejed, túl sok gondolat és gond nehezedik rád.
+Sétálj nagyokat és hagyd, hogy a friss levegő átjárja a tüdődet.
+Ahogy sétálsz, képzeld el, amint lassan beszívod a levegőt az orrodon keresztül és
+beáramlik a tüdődbe és a rossz elhasznált levegő távozik belőle.
+A beáramlott friss levegő oxigénje, szétárad a vérerekben és friss üde könnyedséget hoz a gondoktól
+terhelt fejedbe. Miközben sétálsz érezd, ahogy cirkulál a levegő által keltett friss oxigéndús vér a testedben.
+Ha megteheted, fuss egy-két kört. Miközben, odaverődik a sarkad és a talpad a talajhoz, képzeld el, hogy minden feszültség távozik a
+talpadon keresztül a talajba." },
+{ "img": "34.png", "text": "Ezt a lapot most azért kaptad, mert rendre elutasítod és figyelmen kívül hagyod a megérzéseidet.
+Finom műszer vagy érzékeny receptorokkal, aki képes elfogni, befogni az üzeneteket.
+A megérzések, leheletfinoman érkeznek, olyan mintha érzést keltve benned.
+Kezdj el ráhangolódni és ahogy minél többször engeded meg magadnak a figyelmeztetésüket, úgy
+válik egyre könnyebbé a felismerésük.
+A megérzések mindig a helyes és jó döntésekre sarkalnak téged, fogadd el a vezettetést." },
+{ "img": "35.png", "text": "Ezt a lapot most azért kaptad, mert elbizonytalanodtál. Megrendült a hited Önmagadban.
+Képtelen vagy elképzelni és elhinni, hogy már tudod.
+Minden pillanatban az adott helyzetre adott válaszreakcióid, éppen a legmegfelelőbbek.
+A tőled telhető legjobbak, ha elégedetlen vagy a tudásoddal, teljesítményeddel mindig van lehetőség
+tovább fejlődni.
+Az élet, folyamatos tanulások sorozata." },
+{ "img": "36.png", "text": "Ezt a lapot most azért kaptad, mert elfojtottad az érzéseid.
+Nem mered kimondani, kimutatni a másokfelé táplált érzéseid.
+Valóban a pakliban mindig benne lehet, hogy nem az általad kívánt hatást éred el a másiknál.
+Kezd el a jó érzéseket megosztani a másikkal, hogy szépen fel tudjátok építeni a köztetek lévő hidat.
+Ne feledd, a rosszérzésekből is adj vissza a másiknak, csak mindig egy kicsit kevesebbet, akkor nem
+fognak cunamiként elárasztani se téged, se a másikat." },
+{ "img": "37.png", "text": "Ezt a lapot most azért kaptad, mert elérkezett a cselekvés ideje. Oly régóta vágyott dédelgetett
+álmodat, a megvalósítás színpadára helyezheted. Minden adott, készen van a mű." },
+{ "img": "38.png", "text": "Ezt a lapot most azért kaptad, mert zörgeted a magasabb szférák kapuját.
+De, ahhoz, hogy beléphess, emelned kell a rezgésszinted.
+Végezz gondolat nagytakarítást, ápold a tested és a lelked. A mentális folyamot, tisztítsd meg.
+Étkezz tudatosabban és kerüld az alkohol és hús fogyasztását.
+Könnyű friss ételeket fogyassz, részesítsd előnyben a gyümölcsöket és zöldségeket.
+Igyál tiszta vizet. Mozogj rendszeresen és végezz légzőgyakorlatokat.
+Olyan könyveket olvass, amik támogatják a szellemi és lelki fejlődésed.
+Egészségügyi szakemberrel karöltve, kezd böjtölésbe.
+Vagy menj el, egy elvonulásra.
+Kerüld a tudatmódosító szereket." },
+{ "img": "39.png", "text": "Ezt a lapot most azért kaptad, mert eddig a háttérben vártad, hogy egyszer veled is megessen.
+Most itt van az ideje annak, hogy szeress.
+Szeretni, nem csak szerelemmel lehet. Szeretni, kedvességgel, gyengédséggel, gondoskodással és
+lángolással is lehet.
+Figyeld meg, hogy mindenkit másképpen is lehet szeretni és többféleképpen is egyszerre.
+Nézd meg, hogy el tudod-e fogadni a szeretetet?
+Ha nehézségeket okoz a szeretet áramoltatása, elfogadása,
+akkor érdemes szakemberhez fordulni, aki segít feltárni a mélyben rejlő okokat." },
+{ "img": "40.png", "text": "Ezt a lapot most azért kaptad, mert régóta nem osztottad meg a gondolataidat másokkal.
+Itt az ideje, hogy a gondolataidat és eszméidet megoszd másokkal. Rád fér egy kiadós társalgás, ami
+újra feltölt téged.
+Néha, nem árt kibújni a csigaházból.
+Meglepő dolgok jöhetnek veled szembe, ha otthon maradsz sosem találkozhatsz számodra fontos és
+értékes személyekkel.
+Ha ágyhoz kötött vagy valamilyen betegség folytán, akkor is találd meg azt a platformot, ahol
+könnyedén társaloghatsz." },
+{ "img": "41.png", "text": "Ezt a lapot most azért kaptad, mert azon gondolkozol, hogy abbahagyod.
+Ne, tedd!
+Már, annyira közel jársz a megoldáshoz.
+Ha most feladod később bánni fogod. Gondolj, azokra az aranyásókra, akik nem adták fel és
+vagyonokat szereztek az állhatatosságukkal.
+Ha sokan egyre hangosabban mondják, hogy hagyd abba, akkor már tudhatod, hogy eléggé közel
+jársz a célodhoz.
+Ne tántorítsanak el a kudarcok.
+A nehézségek sokszor álruhába bújt jótevők, amik nemesítik a lelket és erőssé kovácsolnak." },
+{ "img": "42.png", "text": "Ezt a lapot most azért kaptad, mert a testedet és az idegrendszeredet a végletekig kifacsartad.
+Most, dobj le mindent magadról és kényeztesd magad egy illatos fürdővel.
+Gyújts meg egy-két gyertyát, lehet egy kis halk zene, ahogy szereted. Merülj el a habokban és élvezd
+minden pillanatát.
+Érezd, ahogy a feszültség szép lassan kiárad a pórusaidon keresztül.
+És a finom illóolajok, amik a bőrödön keresztül fejtik ki jótékony hatásukat, stimulálják az
+idegrendszered." },
+{ "img": "43.png", "text": "Ezt a lapot most azért kaptad, mert elfelejtetted, hogy nemcsak a testednek, de a lelkednek is
+szüksége van a mozgásra.
+Mivel a test a lélek temploma, a lélek szeretné a lehető legtovább fittnek, tisztának és erősnek érezni a lakhelyét. A több mozgással, újra életerő tud költözni a szervekbe, izmokba a véráramba, a bőrbe...
+Megifjító ereje nagyon hatékony.
+Sosem késő elkezdeni." },
+{ "img": "44.png", "text": "Ezt a lapot most azért kaptad, mert egy kissé elhanyagoltad a tested. Itt az ideje, hogy komolyan
+foglalkozni kezdj vele. Nem csak az étkezés, hanem a mozgás szerepe is nagyon fontos számodra.
+A vitaminok és ásványianyagok bevitele létfontosságú, amit tiszta élelmiszerek, tisztított víz és
+gyümölcsök formájában érdemes elsősorban a szervezetedbe juttatni.
+Kerüld a tudatmódosítószereket!
+Ha kórósan túlsúlyos vagy, akkor mindenképpen javaslom szakemberrel való konzultációt a diéta
+megkezdése előtt.
+Továbbá, ez esetben érdemes még lelki oldalról is feltárni a súlytöbblettel kapcsolatos problémák
+okait. Ne csüggedj, minden rajtad áll.
+Ha valóban akarod a változást, nincs senki, aki megállíthat téged, hogy elérd a vágyott célt." },
+{ "img": "45.png", "text": "Ezt a lapot most azért kaptad, mert jelenlegi élethelyzeted, beaktiválta a benned élő Belső Gyermek
+hiányérzetét.
+Figyeld meg, hogy mi az, ami hiányzik most az életedből.
+Mi lehetett az a bizonyos nyomógomb, ami bekapcsolta a hiányérzetet nálad.
+Kicsit figyelj befelé és kérdezd meg, Belső Gyermekedet, hogy mire van szüksége?
+Kérdezd meg és Ő válaszolni fog, hallgasd meg és cselekedj." }
 ]
